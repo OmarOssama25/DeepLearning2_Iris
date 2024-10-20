@@ -1,5 +1,3 @@
-Here's an adjusted version of the README.md file that looks nicer and is more suitable for GitHub:
-
 # Iris Classification using PyTorch
 
 ## Objective
@@ -93,6 +91,3 @@ pip install pandas numpy scikit-learn torch matplotlib
 ## Conclusion
 
 This project showcases the implementation of a simple neural network for classification tasks using PyTorch. The Iris dataset serves as an excellent starting point for those new to classification problems and provides hands-on experience with deep learning frameworks like PyTorch.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/29393552/b944acac-5316-49ba-842c-5aeac171d96f/Assignment2_Iris.ipynb
